@@ -1,0 +1,29 @@
+.container{
+    text-align:center;
+    margin:auto;
+    width:350px;
+    border:2px solid aqua;
+    background-image:url('pack.png'); 
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:300px;
+    border-radius:20px;
+    position:relative;
+    top:100px;
+}
+#h1,#p1,#p2,#p3{
+    color:whitesmoke;
+    font-weight:1000;
+    margin:40px;
+}
+button{
+    background-color: #064a7e;
+    border:1px solid yellow;
+    color:white;
+}
+button:hover{
+    height:20px;
+}
+#p2{
+    color:yellow;
+}
